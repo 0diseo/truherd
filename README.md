@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+dashboard url: http://127.0.0.1:3000/admin
 
-Things you may want to cover:
+## Pen dashboard
+![img_4.png](img_4.png)
 
-* Ruby version
+# Pen Create Update
+![img_9.png](img_9.png)
 
-* System dependencies
+## Herd dashboard
+![img_5.png](img_5.png)
 
-* Configuration
+# Heard Create Update
+![img_8.png](img_8.png)
 
-* Database creation
+## Animal dashboard
+![img_6.png](img_6.png)
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# animal Create Update
+![img_7.png](img_7.png)
